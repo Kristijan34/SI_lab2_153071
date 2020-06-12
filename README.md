@@ -91,6 +91,47 @@ N-O,
 O-P,
 N-P,
 
+3. tralalalalal
+**A**,
+**B**,
+**C**,
+**D**,
+**E**,
+**F**,
+G,
+H,
+I,
+J,
+K,
+L,
+M,
+N,
+O,
+**P**,
+
+
+**A-B**,
+**B-C**,
+**C-D**,
+**D-E**,
+**E-F**,
+D-F,
+F-G,
+G-H,
+H-I,
+G-I,
+I-J,
+J-K,
+I-K,
+K-L,
+L-M,
+K-M,
+M-F,
+M-N,
+N-O,
+O-P,
+N-P
+
 
 ## Тест случаи според критериумот Multiple Condition
 
